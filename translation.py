@@ -24,7 +24,7 @@ If You Want Any **Other Shortner** Link Converter Bot Instead Of MdiskShortener'
 HELP_MESSAGE = '''**Hello, {}
 I Am MdiskShortener's, Bulk Link Converter Bot. I Can Convert Links Directly From Your MdiskShorteners Account,**
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 https://mdiskshortners.in/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -37,14 +37,14 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Shortnerfly** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""MdiskShorteners** than **contact** at 👉 @MrVenomAd (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Shortener Fly Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Mdisk shorteners Link Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Shortnerfly** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **MdiskShorteners** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
