@@ -13,7 +13,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5800276525:AAE5kJnEVgYxVh3qF62KHahVMXFE
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("5890495617")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "MdiskShortners")
-DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://00998855:<password>@cluster0.bylasy0.mongodb.net/?retryWrites=true&w=majority") 
+DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://00998855:Mfh@9066@cluster0.bylasy0.mongodb.net/?retryWrites=true&w=majority") 
 OWNER_ID =  int(os.environ.get("OWNER_ID", "5890495617")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
 ADMINS.append(Id Owned Id)
