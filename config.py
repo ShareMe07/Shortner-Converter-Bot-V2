@@ -10,9 +10,9 @@ load_dotenv()
 API_ID = int(os.getenv("API_ID", "24862026"))
 API_HASH = os.environ.get("API_HASH", "cc816e78e7084155e360976c52ca08dd")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5800276525:AAE5kJnEVgYxVh3qF62KHahVMXFEavflK2I")
-ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("Owner Id")] if os.environ.get("ADMINS") else []
+ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("@MrVenomAd")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "Db Name")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "MdiskShortners")
 DATABASE_URL = os.getenv("DATABASE_URL", "Monfo url") 
 OWNER_ID =  int(os.environ.get("OWNER_ID", "Owner Id")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
