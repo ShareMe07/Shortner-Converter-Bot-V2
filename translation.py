@@ -40,7 +40,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 If You Want Any **Other Shortner** Link Converter Bot Instead Of ""MdiskShorteners** than **contact** at 👉 @MrVenomAd (all **shortners support** available.)**
 '''
 
-ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Mdisk shorteners Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My name is @Mdisk_Shortners_Bot. I am Mdisk shorteners Link Converter Bot.**
 
 **⚡Features⚡**
 
@@ -56,7 +56,7 @@ ABOUT_TEXT = '''**Hey! My name is @ShortnerFlyBot. I am Mdisk shorteners Link Co
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of ShortnerFly than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)
+ Anyone who want to use any **other shortner** instead of MdiskShorteners than **contact** at 👉 @MrVenomAd (all **shortners support** available.)
 
 **Click On Custom Alias To Create Custom Link**
 '''
