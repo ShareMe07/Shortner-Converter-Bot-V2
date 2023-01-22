@@ -162,22 +162,3 @@ Or
 
 **- Message @mdiskshortners_support For More Help -**"""
 
-BANNER_IMAGE = """
-Usage: `/banner_image image_url` or reply to any Image with this command
-
-This image will be automatically replaced with other images in the post
-
-To remove custom image, `/banner_image remove`
-
-Eg: `/banner_image https://telegra.ph/file/5e96340a91470256b387a.jpg`"""
-
-
-BANNED_USER_TXT = """
-Usage: `/ban [User ID]`
-
-Usage: `/unban [User ID]`
-
-List of users that are banned:
-
-{users}
-"""
