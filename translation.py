@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am MdiskShortner's.in, Bulk Link Converter. I Can Convert Links Directly From Your ShortnerFly Account,
+I Am mdiskshortners.in, Bulk Link Converter. I Can Convert Links Directly From Your mdiskshortners Account,
     
-1. Go To 👉 https://ShortnerFly.com/member/tools/api  
+1. Go To 👉 http://mdiskshortners.in/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -18,11 +18,11 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Shortnerfly than **contact** at 👉 @Cyniteofficial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of MdiskShortener's than **contact** at 👉 @MrVenomAd (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your ShortnerFly Account,**
+I Am MdiskShortener's, Bulk Link Converter Bot. I Can Convert Links Directly From Your MdiskShorteners Account,**
     
 1. Go To 👉 https://ShortnerFly.com/member/tools/api  
 2. Than **Copy API** Key
